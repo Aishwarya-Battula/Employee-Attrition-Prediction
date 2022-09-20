@@ -10,4 +10,5 @@ The ML classification models were compared basis F1-score and accuracy on the ba
 ![image](https://user-images.githubusercontent.com/73424712/191253687-aed297f9-b6e7-40a6-9e84-764d3079b75e.png)
 
 The model was then deployed onto a Web application using StreamLit which can be directly used by HRs as a front-end application.
+![image](https://user-images.githubusercontent.com/73424712/191254031-44984d87-da46-4286-95c7-8c06ff26fcd5.png)
 
